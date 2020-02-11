@@ -16,7 +16,7 @@ This repository contains the crop production monitoring with Sentinel data at 10
 [](./images/farm.png)
 
 ## Installation:             
-It is still under going extensive development and will be made public available soon.
+It is still under going extensive development and will be made publicly available soon.
                              
 ### LICENSE                  
 GNU GENERAL PUBLIC LICENSE 
